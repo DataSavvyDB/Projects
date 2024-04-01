@@ -21,10 +21,17 @@ Data Integration and Compilation Process
 The dashboard integrates data from three main sources:
 
 **Talent BPC Database:** Utilizing SQL queries to extract relevant data.
+
 **SAP AO Systems:** Extracting data from SAP AO systems using Python and Excel.
+
 **Manual Excel Files and Mapping Tables:** Incorporating additional data from manual Excel files and mapping tables.
+
 **Data Compilation Workflow**
+
 **Python Script:** Utilized Python to compile and preprocess data from various sources.
+
 **SQL Queries:** Executed SQL queries via SSMS for extracting data from the Talent BPC database.
+
 **Data Transformation:** Employed Pandas library in Python for data transformation and cleaning.
+
 **Data Concatenation:** Merged data from different sources to create a unified dataset for the dashboard.

@@ -36,3 +36,6 @@ The dashboard integrates data from three main sources:
 
 **Data Concatenation:** Merged data from different sources to create a unified dataset for the dashboard.
 Please refer the [AO_BPC_comb+AOFP_APF+HCRF opt] file attached in this repository for the python code
+
+
+2. **Data Warehouse Migration:**

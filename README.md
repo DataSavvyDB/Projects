@@ -1,6 +1,9 @@
 # Projects
 
 **1. L&D Central Dashboard Portfolio Showcase**
+
+
+**2. L&D Central Dashboard Portfolio Showcase**
 **Introduction**
 The L&D Central Dashboard is a comprehensive financial and headcount analytics platform designed for select leaders and professionals involved in Learning & Development (L&D) data activities. Its primary goal is to enhance visibility and transparency into L&D Financial Data by consolidating information from multiple financial systems. This dashboard provides various levels of detail, empowering stakeholders with valuable insights for informed decision-making.
 
@@ -20,19 +23,19 @@ Headcount data across various periods, with comparisons of region and planned vs
 Data Integration and Compilation Process
 The dashboard integrates data from three main sources:
 
-**Talent BPC Database:** Utilizing SQL queries to extract relevant data.
+**3. Talent BPC Database:** Utilizing SQL queries to extract relevant data.
 
-**SAP AO Systems:** Extracting data from SAP AO systems using Python and Excel.
+**4. SAP AO Systems:** Extracting data from SAP AO systems using Python and Excel.
 
-**Manual Excel Files and Mapping Tables:** Incorporating additional data from manual Excel files and mapping tables.
+**5. Manual Excel Files and Mapping Tables:** Incorporating additional data from manual Excel files and mapping tables.
 
-**Data Compilation Workflow**
+**6. Data Compilation Workflow**
 
-**Python Script:** Utilized Python to compile and preprocess data from various sources.
+**7. Python Script:** Utilized Python to compile and preprocess data from various sources.
 
-**SQL Queries:** Executed SQL queries via SSMS for extracting data from the Talent BPC database.
+**8. SQL Queries:** Executed SQL queries via SSMS for extracting data from the Talent BPC database.
 
-**Data Transformation:** Employed Pandas library in Python for data transformation and cleaning.
+**9. Data Transformation:** Employed Pandas library in Python for data transformation and cleaning.
 
 **Data Concatenation:** Merged data from different sources to create a unified dataset for the dashboard.
 Please refer the [AO_BPC_comb+AOFP_APF+HCRF opt] file attached in this repository for the python code
